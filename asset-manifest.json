@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/shashi-prakash/PrtFolio.git/static/css/main.47af89c0.css",
-    "main.js": "/shashi-prakash/PrtFolio.git/static/js/main.e0915e42.js",
-    "static/media/vector-background.png": "/shashi-prakash/PrtFolio.git/static/media/vector-background.17fff8ffdaaf3dcfe71c.png",
-    "index.html": "/shashi-prakash/PrtFolio.git/index.html",
-    "main.47af89c0.css.map": "/shashi-prakash/PrtFolio.git/static/css/main.47af89c0.css.map",
-    "main.e0915e42.js.map": "/shashi-prakash/PrtFolio.git/static/js/main.e0915e42.js.map"
+    "main.css": "/PrtFolio/static/css/main.72ff0438.css",
+    "main.js": "/PrtFolio/static/js/main.e0915e42.js",
+    "static/media/vector-background.png": "/PrtFolio/static/media/vector-background.17fff8ffdaaf3dcfe71c.png",
+    "index.html": "/PrtFolio/index.html",
+    "main.72ff0438.css.map": "/PrtFolio/static/css/main.72ff0438.css.map",
+    "main.e0915e42.js.map": "/PrtFolio/static/js/main.e0915e42.js.map"
   },
   "entrypoints": [
-    "static/css/main.47af89c0.css",
+    "static/css/main.72ff0438.css",
     "static/js/main.e0915e42.js"
   ]
 }
