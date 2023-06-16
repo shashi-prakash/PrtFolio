@@ -1,14 +1,35 @@
 {
   "files": {
-    "main.css": "/PrtFolio/static/css/main.72ff0438.css",
-    "main.js": "/PrtFolio/static/js/main.e0915e42.js",
+    "main.css": "/PrtFolio/static/css/main.e1599407.css",
+    "main.js": "/PrtFolio/static/js/main.1c6b8bab.js",
+    "static/media/infrastructure-as-code.png": "/PrtFolio/static/media/infrastructure-as-code.909cd0140ad7e03c45f0.png",
+    "static/media/westmire.png": "/PrtFolio/static/media/westmire.abc41dbddf5a8fc6aaab.png",
+    "static/media/veterinary.png": "/PrtFolio/static/media/veterinary.839de354c61d5380e1d5.png",
+    "static/media/ui-ux.png": "/PrtFolio/static/media/ui-ux.aed4de8aec06ea682666.png",
+    "static/media/ednctar.png": "/PrtFolio/static/media/ednctar.da5ff3ce1a444fa15d39.png",
     "static/media/vector-background.png": "/PrtFolio/static/media/vector-background.17fff8ffdaaf3dcfe71c.png",
+    "static/media/magento-consulting.png": "/PrtFolio/static/media/magento-consulting.47c4949e3e89c53b7169.png",
+    "static/media/testimonial.png": "/PrtFolio/static/media/testimonial.c7cf177335d8de7c7090.png",
+    "static/media/radha-govind.jpeg": "/PrtFolio/static/media/radha-govind.f9729b142f610b8a7077.jpeg",
+    "static/media/magento.png": "/PrtFolio/static/media/magento.faea58a60bc40938aad1.png",
+    "static/media/prestoshop-module.png": "/PrtFolio/static/media/prestoshop-module.2a84f387f2712b29c0e9.png",
+    "static/media/digital-business.png": "/PrtFolio/static/media/digital-business.df9fa730abc76e018891.png",
+    "static/media/talentAchievers.jpeg": "/PrtFolio/static/media/talentAchievers.4ff81c406881034f10e9.jpeg",
+    "static/media/adobe.png": "/PrtFolio/static/media/adobe.264dd68172f7c737bb77.png",
+    "static/media/course-ads.jpeg": "/PrtFolio/static/media/course-ads.80ba64fe597947a79492.jpeg",
+    "static/media/skills.png": "/PrtFolio/static/media/skills.32a6ea16e918d7804e92.png",
+    "static/media/ecommerce.png": "/PrtFolio/static/media/ecommerce.17be172485d1d286c15c.png",
+    "static/media/obit-admin.jpeg": "/PrtFolio/static/media/obit-admin.b9b7021ee5b84316333a.jpeg",
+    "static/media/om-job-pages.png": "/PrtFolio/static/media/om-job-pages.94b572270c978994df79.png",
+    "static/media/om-job-page.png": "/PrtFolio/static/media/om-job-page.601804baa46ab96a3645.png",
+    "static/media/b.png": "/PrtFolio/static/media/b.88d4adeb815eecbf8e44.png",
+    "static/media/cloud-soft.png": "/PrtFolio/static/media/cloud-soft.4a7c46b961e63488802b.png",
     "index.html": "/PrtFolio/index.html",
-    "main.72ff0438.css.map": "/PrtFolio/static/css/main.72ff0438.css.map",
-    "main.e0915e42.js.map": "/PrtFolio/static/js/main.e0915e42.js.map"
+    "main.e1599407.css.map": "/PrtFolio/static/css/main.e1599407.css.map",
+    "main.1c6b8bab.js.map": "/PrtFolio/static/js/main.1c6b8bab.js.map"
   },
   "entrypoints": [
-    "static/css/main.72ff0438.css",
-    "static/js/main.e0915e42.js"
+    "static/css/main.e1599407.css",
+    "static/js/main.1c6b8bab.js"
   ]
 }
